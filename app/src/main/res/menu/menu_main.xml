@@ -1,0 +1,41 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="grand.app.humanconnector.MainActivity">
+
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/action_home"
+            android:icon="@drawable/ic_home_black"
+            android:orderInCategory="100"
+            android:title="@string/action_home"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/action_jeans"
+            android:icon="@drawable/ic_monetization_on_black_24dp"
+            android:orderInCategory="100"
+            android:title="@string/action_jeans"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/action_shorts"
+            android:icon="@drawable/ic_monetization_on_black_24dp"
+            android:orderInCategory="100"
+            android:title="@string/action_shorts"
+            app:showAsAction="never" />
+
+
+        <item
+            android:id="@+id/action_admin"
+            android:icon="@drawable/ic_admin"
+            android:orderInCategory="100"
+            android:title="@string/action_admin"
+            app:showAsAction="never" />
+
+    </group>
+
+</menu>

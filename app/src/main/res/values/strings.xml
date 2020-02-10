@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HumanConnector</string>
+    <string name="action_settings">Settings</string>
+    <string name="see_if_it_available">see if it available</string>
+    <string name="action_home">Home</string>
+    <string name="action_jeans">Jeans</string>
+    <string name="action_shorts">Shorts</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_admin">Admin</string>
+</resources>
